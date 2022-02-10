@@ -8,7 +8,7 @@ $`pip install np-alias`
 
 ## Usage
 ```python
-import np  # this is an alias to "import matplotlib.pyplot as plt"
+import np  # this is an alias to "import numpy as np"
 np.arange(100)
 ```
 
